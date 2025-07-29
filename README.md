@@ -21,4 +21,5 @@ RP2040 → Firebase → Mobile App
 - Using Firebase for data storage and real-time notifications
 
 ## Screenshots
-(add screenshots of app or hardware)
+![480235499_3865424253714270_469293951806313908_n](https://github.com/user-attachments/assets/48f449a4-f55c-474a-ad74-38f3cbca53da)
+
